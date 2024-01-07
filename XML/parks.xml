@@ -928,7 +928,7 @@
 
   <Park>
     <Name>Washington State Fair</Name>
-    <City>Federal Way</City>
+    <City>Puyallup</City>
     <State>WA</State>
     <X>11</X>
     <Y>7</Y>
@@ -945,5 +945,5 @@
     <Region>West</Region>
     <RegID>19</RegID>
   </Park>
-  
+
 </ParkData>
