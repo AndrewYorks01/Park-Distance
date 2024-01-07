@@ -234,13 +234,23 @@
   </Park>
 
   <Park>
+    <Name>Tropic Falls Theme Park</Name>
+    <City>Foley</City>
+    <State>AL</State>
+    <X>97</X>
+    <Y>72</Y>
+    <Region>South</Region>
+    <RegID>24</RegID>
+  </Park>
+
+  <Park>
     <Name>Universal Orlando Resort</Name>
     <City>Orlando</City>
     <State>FL</State>
     <X>118</X>
     <Y>78</Y>
     <Region>South</Region>
-    <RegID>24</RegID>
+    <RegID>25</RegID>
   </Park>
 
   <Park>
@@ -250,7 +260,17 @@
     <X>118</X>
     <Y>78</Y>
     <Region>South</Region>
-    <RegID>25</RegID>
+    <RegID>26</RegID>
+  </Park>
+
+  <Park>
+    <Name>Wild Adventures</Name>
+    <City>Valdosta</City>
+    <State>GA</State>
+    <X>109</X>
+    <Y>68</Y>
+    <Region>South</Region>
+    <RegID>27</RegID>
   </Park>
 
   <Park>
@@ -260,7 +280,7 @@
     <X>58</X>
     <Y>55</Y>
     <Region>South</Region>
-    <RegID>26</RegID>
+    <RegID>28</RegID>
   </Park>
 
   <Park>
@@ -270,7 +290,7 @@
     <X>66</X>
     <Y>74</Y>
     <Region>South</Region>
-    <RegID>27</RegID>
+    <RegID>29</RegID>
   </Park>
 
   <!---NORTHEAST-->
@@ -283,6 +303,16 @@
     <Region>Northeast</Region>
     <RegID>1</RegID>
   </Park>
+
+  <Park>
+    <Name>Clementon Park</Name>
+    <City>Clementon</City>
+    <State>NJ</State>
+    <X>127</X>
+    <Y>33</Y>
+    <Region>Northeast</Region>
+    <RegID>2</RegID>
+  </Park>
   
   <Park>
     <Name>Coney Island parks</Name>
@@ -291,7 +321,7 @@
     <X>131</X>
     <Y>31</Y>
     <Region>Northeast</Region>
-    <RegID>2</RegID>
+    <RegID>3</RegID>
   </Park>
   
   <Park>
@@ -301,7 +331,17 @@
     <X>125</X>
     <Y>33</Y>
     <Region>Northeast</Region>
-    <RegID>3</RegID>
+    <RegID>4</RegID>
+  </Park>
+
+  <Park>
+    <Name>Dutch Wonderland</Name>
+    <City>Lancaster</City>
+    <State>PA</State>
+    <X>124</X>
+    <Y>35</Y>
+    <Region>Northeast</Region>
+    <RegID>5</RegID>
   </Park>
 
   <Park>
@@ -311,7 +351,7 @@
     <X>136</X>
     <Y>19</Y>
     <Region>Northeast</Region>
-    <RegID>4</RegID>
+    <RegID>6</RegID>
   </Park>
   
   <Park>
@@ -321,7 +361,17 @@
     <X>123</X>
     <Y>34</Y>
     <Region>Northeast</Region>
-    <RegID>5</RegID>
+    <RegID>7</RegID>
+  </Park>
+
+  <Park>
+    <Name>Idlewild &amp; SoakZone</Name>
+    <City>Ligonier</City>
+    <State>PA</State>
+    <X>115</X>
+    <Y>34</Y>
+    <Region>Northeast</Region>
+    <RegID>8</RegID>
   </Park>
 
   <Park>
@@ -331,7 +381,7 @@
     <X>114</X>
     <Y>33</Y>
     <Region>Northeast</Region>
-    <RegID>6</RegID>
+    <RegID>9</RegID>
   </Park>
 
   <Park>
@@ -341,7 +391,7 @@
     <X>123</X>
     <Y>32</Y>
     <Region>Northeast</Region>
-    <RegID>7</RegID>
+    <RegID>10</RegID>
   </Park>
 
   <Park>
@@ -351,7 +401,7 @@
     <X>131</X>
     <Y>27</Y>
     <Region>Northeast</Region>
-    <RegID>8</RegID>
+    <RegID>11</RegID>
   </Park>
 
   <Park>
@@ -361,7 +411,7 @@
     <X>117</X>
     <Y>33</Y>
     <Region>Northeast</Region>
-    <RegID>9</RegID>
+    <RegID>12</RegID>
   </Park>
 
   <Park>
@@ -371,7 +421,17 @@
     <X>129</X>
     <Y>37</Y>
     <Region>Northeast</Region>
-    <RegID>10</RegID>
+    <RegID>13</RegID>
+  </Park>
+
+  <Park>
+    <Name>Niagara Amusement Park &amp; Splash World</Name>
+    <City>Grand Island</City>
+    <State>NY</State>
+    <X>117</X>
+    <Y>26</Y>
+    <Region>Northeast</Region>
+    <RegID>14</RegID>
   </Park>
 
   <Park>
@@ -381,7 +441,7 @@
     <X>129</X>
     <Y>31</Y>
     <Region>Northeast</Region>
-    <RegID>11</RegID>
+    <RegID>15</RegID>
   </Park>
 
   <Park>
@@ -391,7 +451,7 @@
     <X>131</X>
     <Y>30</Y>
     <Region>Northeast</Region>
-    <RegID>12</RegID>
+    <RegID>16</RegID>
   </Park>
 
   <Park>
@@ -401,7 +461,7 @@
     <X>129</X>
     <Y>36</Y>
     <Region>Northeast</Region>
-    <RegID>13</RegID>
+    <RegID>17</RegID>
   </Park>
 
   <Park>
@@ -411,7 +471,7 @@
     <X>131</X>
     <Y>27</Y>
     <Region>Northeast</Region>
-    <RegID>14</RegID>
+    <RegID>18</RegID>
   </Park>
 
   <Park>
@@ -421,7 +481,7 @@
     <X>119</X>
     <Y>24</Y>
     <Region>Northeast</Region>
-    <RegID>15</RegID>
+    <RegID>19</RegID>
   </Park>
 
   <Park>
@@ -431,7 +491,7 @@
     <X>126</X>
     <Y>34</Y>
     <Region>Northeast</Region>
-    <RegID>16</RegID>
+    <RegID>20</RegID>
   </Park>
 
   <Park>
@@ -441,7 +501,7 @@
     <X>124</X>
     <Y>39</Y>
     <Region>Northeast</Region>
-    <RegID>17</RegID>
+    <RegID>21</RegID>
   </Park>
 
   <Park>
@@ -451,7 +511,7 @@
     <X>118</X>
     <Y>26</Y>
     <Region>Northeast</Region>
-    <RegID>18</RegID>
+    <RegID>22</RegID>
   </Park>
 
   <Park>
@@ -461,7 +521,7 @@
     <X>128</X>
     <Y>34</Y>
     <Region>Northeast</Region>
-    <RegID>19</RegID>
+    <RegID>23</RegID>
   </Park>
 
   <Park>
@@ -471,7 +531,7 @@
     <X>128</X>
     <Y>23</Y>
     <Region>Northeast</Region>
-    <RegID>20</RegID>
+    <RegID>24</RegID>
   </Park>
 
   <Park>
@@ -481,7 +541,7 @@
     <X>131</X>
     <Y>25</Y>
     <Region>Northeast</Region>
-    <RegID>21</RegID>
+    <RegID>25</RegID>
   </Park>
 
   <Park>
@@ -491,7 +551,7 @@
     <X>134</X>
     <Y>18</Y>
     <Region>Northeast</Region>
-    <RegID>22</RegID>
+    <RegID>26</RegID>
   </Park>
 
   <Park>
@@ -501,7 +561,7 @@
     <X>114</X>
     <Y>29</Y>
     <Region>Northeast</Region>
-    <RegID>23</RegID>
+    <RegID>27</RegID>
   </Park>
 
   <!---MIDWEST-->
@@ -586,13 +646,23 @@
   </Park>
 
   <Park>
+    <Name>Little Amerricka</Name>
+    <City>Marshall</City>
+    <State>WI</State>
+    <X>91</X>
+    <Y>28</Y>
+    <Region>Midwest</Region>
+    <RegID>9</RegID>
+  </Park>
+
+  <Park>
     <Name>Lost Island Theme Park</Name>
     <City>Waterloo</City>
     <State>IA</State>
     <X>82</X>
     <Y>31</Y>
     <Region>Midwest</Region>
-    <RegID>9</RegID>
+    <RegID>10</RegID>
   </Park>
 
   <Park>
@@ -602,7 +672,7 @@
     <X>98</X>
     <Y>29</Y>
     <Region>Midwest</Region>
-    <RegID>10</RegID>
+    <RegID>11</RegID>
   </Park>
 
   <Park>
@@ -612,7 +682,7 @@
     <X>79</X>
     <Y>23</Y>
     <Region>Midwest</Region>
-    <RegID>11</RegID>
+    <RegID>12</RegID>
   </Park>
 
   <Park>
@@ -622,7 +692,7 @@
     <X>81</X>
     <Y>51</Y>
     <Region>Midwest</Region>
-    <RegID>12</RegID>
+    <RegID>13</RegID>
   </Park>
 
   <Park>
@@ -632,7 +702,7 @@
     <X>94</X>
     <Y>31</Y>
     <Region>Midwest</Region>
-    <RegID>13</RegID>
+    <RegID>14</RegID>
   </Park>
 
   <Park>
@@ -642,7 +712,7 @@
     <X>88</X>
     <Y>45</Y>
     <Region>Midwest</Region>
-    <RegID>14</RegID>
+    <RegID>15</RegID>
   </Park>
 
   <Park>
@@ -652,7 +722,7 @@
     <X>105</X>
     <Y>40</Y>
     <Region>Midwest</Region>
-    <RegID>15</RegID>
+    <RegID>16</RegID>
   </Park>
 
   <Park>
@@ -662,7 +732,7 @@
     <X>79</X>
     <Y>23</Y>
     <Region>Midwest</Region>
-    <RegID>16</RegID>
+    <RegID>17</RegID>
   </Park>
 
   <Park>
@@ -672,7 +742,7 @@
     <X>89</X>
     <Y>27</Y>
     <Region>Midwest</Region>
-    <RegID>17</RegID>
+    <RegID>18</RegID>
   </Park>
 
   <Park>
@@ -682,7 +752,7 @@
     <X>78</X>
     <Y>44</Y>
     <Region>Midwest</Region>
-    <RegID>18</RegID>
+    <RegID>19</RegID>
   </Park>
 
   <!---WEST-->
@@ -737,13 +807,23 @@
   </Park>
 
   <Park>
+    <Name>Elitch Gardens</Name>
+    <City>Denver</City>
+    <State>CO</State>
+    <X>48</X>
+    <Y>40</Y>
+    <Region>West</Region>
+    <RegID>6</RegID>
+  </Park>
+
+  <Park>
     <Name>Enchanted Forest</Name>
     <City>Turner</City>
     <State>OR</State>
     <X>11</X>
     <Y>14</Y>
     <Region>West</Region>
-    <RegID>6</RegID>
+    <RegID>7</RegID>
   </Park>
 
   <Park>
@@ -753,7 +833,7 @@
     <X>43</X>
     <Y>40</Y>
     <Region>West</Region>
-    <RegID>7</RegID>
+    <RegID>8</RegID>
   </Park>
 
   <Park>
@@ -763,7 +843,7 @@
     <X>12</X>
     <Y>53</Y>
     <Region>West</Region>
-    <RegID>8</RegID>
+    <RegID>9</RegID>
   </Park>
 
   <Park>
@@ -773,7 +853,7 @@
     <X>32</X>
     <Y>33</Y>
     <Region>West</Region>
-    <RegID>9</RegID>
+    <RegID>10</RegID>
   </Park>
 
   <Park>
@@ -783,7 +863,7 @@
     <X>11</X>
     <Y>12</Y>
     <Region>West</Region>
-    <RegID>10</RegID>
+    <RegID>11</RegID>
   </Park>
 
   <Park>
@@ -793,7 +873,7 @@
     <X>5</X>
     <Y>38</Y>
     <Region>West</Region>
-    <RegID>11</RegID>
+    <RegID>12</RegID>
   </Park>
 
   <Park>
@@ -803,7 +883,7 @@
     <X>13</X>
     <Y>57</Y>
     <Region>West</Region>
-    <RegID>12</RegID>
+    <RegID>13</RegID>
   </Park>
   
   <Park>
@@ -813,7 +893,7 @@
     <X>26</X>
     <Y>8</Y>
     <Region>West</Region>
-    <RegID>13</RegID>
+    <RegID>14</RegID>
   </Park>
 
   <Park>
@@ -823,7 +903,7 @@
     <X>5</X>
     <Y>35</Y>
     <Region>West</Region>
-    <RegID>14</RegID>
+    <RegID>15</RegID>
   </Park>
 
   <Park>
@@ -833,7 +913,7 @@
     <X>12</X>
     <Y>52</Y>
     <Region>West</Region>
-    <RegID>15</RegID>
+    <RegID>16</RegID>
   </Park>
 
   <Park>
@@ -843,7 +923,7 @@
     <X>12</X>
     <Y>52</Y>
     <Region>West</Region>
-    <RegID>16</RegID>
+    <RegID>17</RegID>
   </Park>
 
   <Park>
@@ -853,7 +933,7 @@
     <X>11</X>
     <Y>7</Y>
     <Region>West</Region>
-    <RegID>17</RegID>
+    <RegID>18</RegID>
   </Park>
 
   <Park>
@@ -863,7 +943,7 @@
     <X>11</X>
     <Y>7</Y>
     <Region>West</Region>
-    <RegID>18</RegID>
+    <RegID>19</RegID>
   </Park>
   
 </ParkData>
