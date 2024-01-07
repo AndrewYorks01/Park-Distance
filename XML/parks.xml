@@ -1,0 +1,849 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ParkData>
+  
+  <!---SOUTH-->
+
+  <Park>
+    <Name>Alabama Adventure &amp; Splash Adventure</Name>
+    <City>Bessemer</City>
+    <State>AL</State>
+    <X>100</X>
+    <Y>59</Y>
+    <Region>South</Region>
+    <RegID>1</RegID>
+  </Park>
+
+  <Park>
+    <Name>Beech Bend</Name>
+    <City>Bowling Green</City>
+    <State>KY</State>
+    <X>101</X>
+    <Y>48</Y>
+    <Region>South</Region>
+    <RegID>2</RegID>
+  </Park>
+  
+  <Park>
+    <Name>Busch Gardens Tampa</Name>
+    <City>Tampa</City>
+    <State>FL</State>
+    <X>115</X>
+    <Y>79</Y>
+    <Region>South</Region>
+    <RegID>3</RegID>
+  </Park>
+  
+  <Park>
+    <Name>Busch Gardens Williamsburg</Name>
+    <City>Williamsburg</City>
+    <State>VA</State>
+    <X>124</X>
+    <Y>44</Y>
+    <Region>South</Region>
+    <RegID>4</RegID>
+  </Park>
+
+  <Park>
+    <Name>Camden Park</Name>
+    <City>Huntington</City>
+    <State>WV</State>
+    <X>111</X>
+    <Y>41</Y>
+    <Region>South</Region>
+    <RegID>5</RegID>
+  </Park>
+
+  <Park>
+    <Name>Carowinds</Name>
+    <City>Charlotte</City>
+    <State>NC</State>
+    <X>116</X>
+    <Y>53</Y>
+    <Region>South</Region>
+    <RegID>6</RegID>
+  </Park>
+
+  <Park>
+    <Name>Dollywood</Name>
+    <City>Pigeon Forge</City>
+    <State>TN</State>
+    <X>108</X>
+    <Y>51</Y>
+    <Region>South</Region>
+    <RegID>7</RegID>
+  </Park>
+
+  <Park>
+    <Name>Family Kingdom</Name>
+    <City>Myrtle Beach</City>
+    <State>SC</State>
+    <X>122</X>
+    <Y>57</Y>
+    <Region>South</Region>
+    <RegID>8</RegID>
+  </Park>
+
+  <Park>
+    <Name>Frontier City</Name>
+    <City>Oklahoma City</City>
+    <State>OK</State>
+    <X>69</X>
+    <Y>55</Y>
+    <Region>South</Region>
+    <RegID>9</RegID>
+  </Park>
+
+  <Park>
+    <Name>Fun Spot America Atlanta</Name>
+    <City>Fayetteville</City>
+    <State>GA</State>
+    <X>106</X>
+    <Y>60</Y>
+    <Region>South</Region>
+    <RegID>10</RegID>
+  </Park>
+
+  <Park>
+    <Name>Galveston Island Historic Pleasure Pier</Name>
+    <City>Galveston</City>
+    <State>TX</State>
+    <X>76</X>
+    <Y>77</Y>
+    <Region>South</Region>
+    <RegID>11</RegID>
+  </Park>
+
+  <Park>
+    <Name>Kemah Boardwalk</Name>
+    <City>Kemah</City>
+    <State>TX</State>
+    <X>76</X>
+    <Y>77</Y>
+    <Region>South</Region>
+    <RegID>12</RegID>
+  </Park>
+
+  <Park>
+    <Name>Kentucky Kingdom</Name>
+    <City>Louisville</City>
+    <State>KY</State>
+    <X>102</X>
+    <Y>44</Y>
+    <Region>South</Region>
+    <RegID>13</RegID>
+  </Park>
+
+  <Park>
+    <Name>Kings Dominion</Name>
+    <City>Doswell</City>
+    <State>VA</State>
+    <X>122</X>
+    <Y>43</Y>
+    <Region>South</Region>
+    <RegID>14</RegID>
+  </Park>
+
+  <Park>
+    <Name>Magic Springs Theme and Water Park</Name>
+    <City>Hot Springs</City>
+    <State>AR</State>
+    <X>81</X>
+    <Y>57</Y>
+    <Region>South</Region>
+    <RegID>15</RegID>
+  </Park>
+
+  <Park>
+    <Name>Peppa Pig Theme Park</Name>
+    <City>Winter Haven</City>
+    <State>FL</State>
+    <X>117</X>
+    <Y>79</Y>
+    <Region>South</Region>
+    <RegID>16</RegID>
+  </Park>
+
+  <Park>
+    <Name>Schlitterbahn</Name>
+    <City>New Braunfels</City>
+    <State>TX</State>
+    <X>66</X>
+    <Y>74</Y>
+    <Region>South</Region>
+    <RegID>17</RegID>
+  </Park>
+
+  <Park>
+    <Name>SeaWorld Orlando</Name>
+    <City>Orlando</City>
+    <State>FL</State>
+    <X>118</X>
+    <Y>78</Y>
+    <Region>South</Region>
+    <RegID>18</RegID>
+  </Park>
+  
+  <Park>
+    <Name>SeaWorld San Antonio</Name>
+    <City>San Antonio</City>
+    <State>TX</State>
+    <X>65</X>
+    <Y>74</Y>
+    <Region>South</Region>
+    <RegID>19</RegID>
+  </Park>
+
+  <Park>
+    <Name>Six Flags Fiesta Texas</Name>
+    <City>San Antonio</City>
+    <State>TX</State>
+    <X>65</X>
+    <Y>74</Y>
+    <Region>South</Region>
+    <RegID>20</RegID>
+  </Park>
+
+  <Park>
+    <Name>Six Flags Over Georgia</Name>
+    <City>Austell</City>
+    <State>GA</State>
+    <X>106</X>
+    <Y>59</Y>
+    <Region>South</Region>
+    <RegID>21</RegID>
+  </Park>
+
+  <Park>
+    <Name>Six Flags Over Texas</Name>
+    <City>Arlington</City>
+    <State>TX</State>
+    <X>68</X>
+    <Y>64</Y>
+    <Region>South</Region>
+    <RegID>22</RegID>
+  </Park>
+
+  <Park>
+    <Name>Universal Orlando Resort</Name>
+    <City>Orlando</City>
+    <State>FL</State>
+    <X>118</X>
+    <Y>78</Y>
+    <Region>South</Region>
+    <RegID>23</RegID>
+  </Park>
+
+  <Park>
+    <Name>Walt Disney World Resort</Name>
+    <City>Lake Buena Vista</City>
+    <State>FL</State>
+    <X>118</X>
+    <Y>78</Y>
+    <Region>South</Region>
+    <RegID>24</RegID>
+  </Park>
+
+  <Park>
+    <Name>ZDT'S Amusement Park</Name>
+    <City>Seguin</City>
+    <State>TX</State>
+    <X>66</X>
+    <Y>74</Y>
+    <Region>South</Region>
+    <RegID>25</RegID>
+  </Park>
+
+  <!---NORTHEAST-->
+  <Park>
+    <Name>Canobie Lake Park</Name>
+    <City>Salem</City>
+    <State>NH</State>
+    <X>134</X>
+    <Y>21</Y>
+    <Region>Northeast</Region>
+    <RegID>1</RegID>
+  </Park>
+  
+  <Park>
+    <Name>Coney Island parks</Name>
+    <City>Brooklyn</City>
+    <State>NY</State>
+    <X>131</X>
+    <Y>31</Y>
+    <Region>Northeast</Region>
+    <RegID>2</RegID>
+  </Park>
+  
+  <Park>
+    <Name>Dorney Park</Name>
+    <City>Allentown</City>
+    <State>PA</State>
+    <X>125</X>
+    <Y>33</Y>
+    <Region>Northeast</Region>
+    <RegID>3</RegID>
+  </Park>
+
+  <Park>
+    <Name>Funtown Splashtown USA</Name>
+    <City>Saco</City>
+    <State>ME</State>
+    <X>136</X>
+    <Y>19</Y>
+    <Region>Northeast</Region>
+    <RegID>4</RegID>
+  </Park>
+  
+  <Park>
+    <Name>Hersheypark</Name>
+    <City>Hershey</City>
+    <State>PA</State>
+    <X>123</X>
+    <Y>34</Y>
+    <Region>Northeast</Region>
+    <RegID>5</RegID>
+  </Park>
+
+  <Park>
+    <Name>Kennywood</Name>
+    <City>West Mifflin</City>
+    <State>PA</State>
+    <X>114</X>
+    <Y>33</Y>
+    <Region>Northeast</Region>
+    <RegID>6</RegID>
+  </Park>
+
+  <Park>
+    <Name>Knoebels</Name>
+    <City>Elysburg</City>
+    <State>PA</State>
+    <X>123</X>
+    <Y>32</Y>
+    <Region>Northeast</Region>
+    <RegID>7</RegID>
+  </Park>
+
+  <Park>
+    <Name>Lake Compounce</Name>
+    <City>Bristol</City>
+    <State>CT</State>
+    <X>131</X>
+    <Y>27</Y>
+    <Region>Northeast</Region>
+    <RegID>8</RegID>
+  </Park>
+
+  <Park>
+    <Name>Lakemont Park</Name>
+    <City>Altoona</City>
+    <State>PA</State>
+    <X>117</X>
+    <Y>33</Y>
+    <Region>Northeast</Region>
+    <RegID>9</RegID>
+  </Park>
+
+  <Park>
+    <Name>Morey's Piers</Name>
+    <City>Wildwood</City>
+    <State>NJ</State>
+    <X>129</X>
+    <Y>37</Y>
+    <Region>Northeast</Region>
+    <RegID>10</RegID>
+  </Park>
+
+  <Park>
+    <Name>Nickelodeon Universe Theme Park</Name>
+    <City>East Rutherford</City>
+    <State>NJ</State>
+    <X>129</X>
+    <Y>31</Y>
+    <Region>Northeast</Region>
+    <RegID>11</RegID>
+  </Park>
+
+  <Park>
+    <Name>Playland Park</Name>
+    <City>Rye</City>
+    <State>NY</State>
+    <X>131</X>
+    <Y>30</Y>
+    <Region>Northeast</Region>
+    <RegID>12</RegID>
+  </Park>
+
+  <Park>
+    <Name>Playland's Castaway Cove</Name>
+    <City>Ocean City</City>
+    <State>NJ</State>
+    <X>129</X>
+    <Y>36</Y>
+    <Region>Northeast</Region>
+    <RegID>13</RegID>
+  </Park>
+
+  <Park>
+    <Name>Quassy Amusement Park</Name>
+    <City>Middlebury</City>
+    <State>CT</State>
+    <X>131</X>
+    <Y>27</Y>
+    <Region>Northeast</Region>
+    <RegID>14</RegID>
+  </Park>
+
+  <Park>
+    <Name>Seabreeze</Name>
+    <City>Rochester</City>
+    <State>NY</State>
+    <X>119</X>
+    <Y>24</Y>
+    <Region>Northeast</Region>
+    <RegID>15</RegID>
+  </Park>
+
+  <Park>
+    <Name>Sesame Place</Name>
+    <City>Langhorne</City>
+    <State>PA</State>
+    <X>126</X>
+    <Y>34</Y>
+    <Region>Northeast</Region>
+    <RegID>16</RegID>
+  </Park>
+
+  <Park>
+    <Name>Six Flags America</Name>
+    <City>Upper Marlboro</City>
+    <State>MD</State>
+    <X>124</X>
+    <Y>39</Y>
+    <Region>Northeast</Region>
+    <RegID>17</RegID>
+  </Park>
+
+  <Park>
+    <Name>Six Flags Darien Lake</Name>
+    <City>Darien Center</City>
+    <State>NY</State>
+    <X>118</X>
+    <Y>26</Y>
+    <Region>Northeast</Region>
+    <RegID>18</RegID>
+  </Park>
+
+  <Park>
+    <Name>Six Flags Great Adventure</Name>
+    <City>Jackson</City>
+    <State>NJ</State>
+    <X>128</X>
+    <Y>34</Y>
+    <Region>Northeast</Region>
+    <RegID>19</RegID>
+  </Park>
+
+  <Park>
+    <Name>Six Flags Great Escape</Name>
+    <City>Queensbury</City>
+    <State>NY</State>
+    <X>128</X>
+    <Y>23</Y>
+    <Region>Northeast</Region>
+    <RegID>20</RegID>
+  </Park>
+
+  <Park>
+    <Name>Six Flags New England</Name>
+    <City>Agawam</City>
+    <State>MA</State>
+    <X>131</X>
+    <Y>25</Y>
+    <Region>Northeast</Region>
+    <RegID>21</RegID>
+  </Park>
+
+  <Park>
+    <Name>Story Land</Name>
+    <City>Glen</City>
+    <State>NH</State>
+    <X>134</X>
+    <Y>18</Y>
+    <Region>Northeast</Region>
+    <RegID>22</RegID>
+  </Park>
+
+  <Park>
+    <Name>Waldameer</Name>
+    <City>Erie</City>
+    <State>PA</State>
+    <X>114</X>
+    <Y>29</Y>
+    <Region>Northeast</Region>
+    <RegID>23</RegID>
+  </Park>
+
+  <!---MIDWEST-->
+  <Park>
+    <Name>Adventureland</Name>
+    <City>Altoona</City>
+    <State>IA</State>
+    <X>79</X>
+    <Y>35</Y>
+    <Region>Midwest</Region>
+    <RegID>1</RegID>
+  </Park>
+
+  <Park>
+    <Name>Arnolds Park</Name>
+    <City>Arnolds Park</City>
+    <State>IA</State>
+    <X>76</X>
+    <Y>29</Y>
+    <Region>Midwest</Region>
+    <RegID>2</RegID>
+  </Park>
+  
+  <Park>
+    <Name>Bay Beach Amusement Park</Name>
+    <City>Green Bay</City>
+    <State>WI</State>
+    <X>94</X>
+    <Y>25</Y>
+    <Region>Midwest</Region>
+    <RegID>3</RegID>
+  </Park>
+  
+  <Park>
+    <Name>Cedar Point</Name>
+    <City>Sandusky</City>
+    <State>OH</State>
+    <X>107</X>
+    <Y>33</Y>
+    <Region>Midwest</Region>
+    <RegID>4</RegID>
+  </Park>
+
+  <Park>
+    <Name>Columbus Zoo and Aquarium</Name>
+    <City>Columbus</City>
+    <State>OH</State>
+    <X>107</X>
+    <Y>37</Y>
+    <Region>Midwest</Region>
+    <RegID>5</RegID>
+  </Park>
+
+  <Park>
+    <Name>Holiday World</Name>
+    <City>Santa Claus</City>
+    <State>IN</State>
+    <X>99</X>
+    <Y>44</Y>
+    <Region>Midwest</Region>
+    <RegID>6</RegID>
+  </Park>
+
+  <Park>
+    <Name>Indiana Beach</Name>
+    <City>Monticello</City>
+    <State>IN</State>
+    <X>97</X>
+    <Y>36</Y>
+    <Region>Midwest</Region>
+    <RegID>7</RegID>
+  </Park>
+
+  <Park>
+    <Name>Kings Island</Name>
+    <City>Mason</City>
+    <State>OH</State>
+    <X>106</X>
+    <Y>40</Y>
+    <Region>Midwest</Region>
+    <RegID>8</RegID>
+  </Park>
+
+  <Park>
+    <Name>Lost Island Theme Park</Name>
+    <City>Waterloo</City>
+    <State>IA</State>
+    <X>82</X>
+    <Y>31</Y>
+    <Region>Midwest</Region>
+    <RegID>9</RegID>
+  </Park>
+
+  <Park>
+    <Name>Michigan's Adventure</Name>
+    <City>Muskegon</City>
+    <State>MI</State>
+    <X>98</X>
+    <Y>29</Y>
+    <Region>Midwest</Region>
+    <RegID>10</RegID>
+  </Park>
+
+  <Park>
+    <Name>Nickelodeon Universe</Name>
+    <City>Bloomington</City>
+    <State>MN</State>
+    <X>79</X>
+    <Y>23</Y>
+    <Region>Midwest</Region>
+    <RegID>11</RegID>
+  </Park>
+
+  <Park>
+    <Name>Silver Dollar City</Name>
+    <City>Branson</City>
+    <State>MO</State>
+    <X>81</X>
+    <Y>51</Y>
+    <Region>Midwest</Region>
+    <RegID>12</RegID>
+  </Park>
+
+  <Park>
+    <Name>Six Flags Great America</Name>
+    <City>Gurnee</City>
+    <State>IL</State>
+    <X>94</X>
+    <Y>31</Y>
+    <Region>Midwest</Region>
+    <RegID>13</RegID>
+  </Park>
+
+  <Park>
+    <Name>Six Flags St. Louis</Name>
+    <City>Eureka</City>
+    <State>MO</State>
+    <X>88</X>
+    <Y>45</Y>
+    <Region>Midwest</Region>
+    <RegID>14</RegID>
+  </Park>
+
+  <Park>
+    <Name>Stricker's Grove</Name>
+    <City>Ross</City>
+    <State>OH</State>
+    <X>105</X>
+    <Y>40</Y>
+    <Region>Midwest</Region>
+    <RegID>15</RegID>
+  </Park>
+
+  <Park>
+    <Name>Valleyfair!</Name>
+    <City>Shakopee</City>
+    <State>MN</State>
+    <X>79</X>
+    <Y>23</Y>
+    <Region>Midwest</Region>
+    <RegID>16</RegID>
+  </Park>
+
+  <Park>
+    <Name>Wisconsin Dells parks</Name>
+    <City>Wisconsin Dells</City>
+    <State>WI</State>
+    <X>89</X>
+    <Y>27</Y>
+    <Region>Midwest</Region>
+    <RegID>17</RegID>
+  </Park>
+
+  <Park>
+    <Name>Worlds of Fun</Name>
+    <City>Kansas City</City>
+    <State>MO</State>
+    <X>78</X>
+    <Y>44</Y>
+    <Region>Midwest</Region>
+    <RegID>18</RegID>
+  </Park>
+
+  <!---WEST-->
+  <Park>
+    <Name>Adventuredome</Name>
+    <City>Las Vegas</City>
+    <State>NV</State>
+    <X>20</X>
+    <Y>46</Y>
+    <Region>West</Region>
+    <RegID>1</RegID>
+  </Park>
+  
+  <Park>
+    <Name>California's Great America</Name>
+    <City>Santa Clara</City>
+    <State>CA</State>
+    <X>5</X>
+    <Y>37</Y>
+    <Region>West</Region>
+    <RegID>2</RegID>
+  </Park>
+
+  <Park>
+    <Name>Castles n' Coasters</Name>
+    <City>Phoenix</City>
+    <State>AZ</State>
+    <X>28</X>
+    <Y>57</Y>
+    <Region>West</Region>
+    <RegID>3</RegID>
+  </Park>
+
+  <Park>
+    <Name>Cliff's Amusement Park</Name>
+    <City>Albuquerque</City>
+    <State>NM</State>
+    <X>44</X>
+    <Y>54</Y>
+    <Region>West</Region>
+    <RegID>4</RegID>
+  </Park>
+
+  <Park>
+    <Name>Disneyland Resort</Name>
+    <City>Anaheim</City>
+    <State>CA</State>
+    <X>12</X>
+    <Y>53</Y>
+    <Region>West</Region>
+    <RegID>5</RegID>
+  </Park>
+
+  <Park>
+    <Name>Enchanted Forest</Name>
+    <City>Turner</City>
+    <State>OR</State>
+    <X>11</X>
+    <Y>14</Y>
+    <Region>West</Region>
+    <RegID>6</RegID>
+  </Park>
+
+  <Park>
+    <Name>Glenwood Caverns Adventure Park</Name>
+    <City>Glenwood Springs</City>
+    <State>CO</State>
+    <X>43</X>
+    <Y>40</Y>
+    <Region>West</Region>
+    <RegID>7</RegID>
+  </Park>
+
+  <Park>
+    <Name>Knott's Berry Farm</Name>
+    <City>Buena Park</City>
+    <State>CA</State>
+    <X>12</X>
+    <Y>53</Y>
+    <Region>West</Region>
+    <RegID>8</RegID>
+  </Park>
+
+  <Park>
+    <Name>Lagoon</Name>
+    <City>Farmington</City>
+    <State>UT</State>
+    <X>32</X>
+    <Y>33</Y>
+    <Region>West</Region>
+    <RegID>9</RegID>
+  </Park>
+
+  <Park>
+    <Name>Oaks Amusement Park</Name>
+    <City>Portland</City>
+    <State>OR</State>
+    <X>11</X>
+    <Y>12</Y>
+    <Region>West</Region>
+    <RegID>10</RegID>
+  </Park>
+
+  <Park>
+    <Name>Santa Cruz Beach Boardwalk</Name>
+    <City>Santa Cruz</City>
+    <State>CA</State>
+    <X>5</X>
+    <Y>38</Y>
+    <Region>West</Region>
+    <RegID>11</RegID>
+  </Park>
+
+  <Park>
+    <Name>SeaWorld San Diego</Name>
+    <City>San Diego</City>
+    <State>CA</State>
+    <X>13</X>
+    <Y>57</Y>
+    <Region>West</Region>
+    <RegID>12</RegID>
+  </Park>
+  
+  <Park>
+    <Name>Silverwood Theme Park</Name>
+    <City>Athol</City>
+    <State>ID</State>
+    <X>26</X>
+    <Y>8</Y>
+    <Region>West</Region>
+    <RegID>13</RegID>
+  </Park>
+
+  <Park>
+    <Name>Six Flags Discovery Kingdom</Name>
+    <City>Vallejo</City>
+    <State>CA</State>
+    <X>5</X>
+    <Y>35</Y>
+    <Region>West</Region>
+    <RegID>14</RegID>
+  </Park>
+
+  <Park>
+    <Name>Six Flags Magic Mountain</Name>
+    <City>Valencia</City>
+    <State>CA</State>
+    <X>12</X>
+    <Y>52</Y>
+    <Region>West</Region>
+    <RegID>15</RegID>
+  </Park>
+
+  <Park>
+    <Name>Universal Studios Hollywood</Name>
+    <City>Universal City</City>
+    <State>CA</State>
+    <X>12</X>
+    <Y>52</Y>
+    <Region>West</Region>
+    <RegID>16</RegID>
+  </Park>
+
+  <Park>
+    <Name>Washington State Fair</Name>
+    <City>Federal Way</City>
+    <State>WA</State>
+    <X>11</X>
+    <Y>7</Y>
+    <Region>West</Region>
+    <RegID>17</RegID>
+  </Park>
+
+  <Park>
+    <Name>Wild Waves Theme &amp; Water Park</Name>
+    <City>Federal Way</City>
+    <State>WA</State>
+    <X>11</X>
+    <Y>7</Y>
+    <Region>West</Region>
+    <RegID>18</RegID>
+  </Park>
+  
+</ParkData>
