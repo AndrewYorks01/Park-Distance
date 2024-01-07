@@ -144,13 +144,23 @@
   </Park>
 
   <Park>
+    <Name>Lake Winnepesaukah</Name>
+    <City>Rossville</City>
+    <State>GA</State>
+    <X>105</X>
+    <Y>56</Y>
+    <Region>South</Region>
+    <RegID>15</RegID>
+  </Park>
+
+  <Park>
     <Name>Magic Springs Theme and Water Park</Name>
     <City>Hot Springs</City>
     <State>AR</State>
     <X>81</X>
     <Y>57</Y>
     <Region>South</Region>
-    <RegID>15</RegID>
+    <RegID>16</RegID>
   </Park>
 
   <Park>
@@ -160,7 +170,7 @@
     <X>117</X>
     <Y>79</Y>
     <Region>South</Region>
-    <RegID>16</RegID>
+    <RegID>17</RegID>
   </Park>
 
   <Park>
@@ -170,7 +180,7 @@
     <X>66</X>
     <Y>74</Y>
     <Region>South</Region>
-    <RegID>17</RegID>
+    <RegID>18</RegID>
   </Park>
 
   <Park>
@@ -180,7 +190,7 @@
     <X>118</X>
     <Y>78</Y>
     <Region>South</Region>
-    <RegID>18</RegID>
+    <RegID>19</RegID>
   </Park>
   
   <Park>
@@ -190,7 +200,7 @@
     <X>65</X>
     <Y>74</Y>
     <Region>South</Region>
-    <RegID>19</RegID>
+    <RegID>20</RegID>
   </Park>
 
   <Park>
@@ -200,7 +210,7 @@
     <X>65</X>
     <Y>74</Y>
     <Region>South</Region>
-    <RegID>20</RegID>
+    <RegID>21</RegID>
   </Park>
 
   <Park>
@@ -210,7 +220,7 @@
     <X>106</X>
     <Y>59</Y>
     <Region>South</Region>
-    <RegID>21</RegID>
+    <RegID>22</RegID>
   </Park>
 
   <Park>
@@ -220,7 +230,7 @@
     <X>68</X>
     <Y>64</Y>
     <Region>South</Region>
-    <RegID>22</RegID>
+    <RegID>23</RegID>
   </Park>
 
   <Park>
@@ -230,7 +240,7 @@
     <X>118</X>
     <Y>78</Y>
     <Region>South</Region>
-    <RegID>23</RegID>
+    <RegID>24</RegID>
   </Park>
 
   <Park>
@@ -240,7 +250,7 @@
     <X>118</X>
     <Y>78</Y>
     <Region>South</Region>
-    <RegID>24</RegID>
+    <RegID>25</RegID>
   </Park>
 
   <Park>
@@ -250,7 +260,7 @@
     <X>66</X>
     <Y>74</Y>
     <Region>South</Region>
-    <RegID>25</RegID>
+    <RegID>26</RegID>
   </Park>
 
   <!---NORTHEAST-->
