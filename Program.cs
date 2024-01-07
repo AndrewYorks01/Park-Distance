@@ -128,11 +128,15 @@ namespace Park_Distance
             {
                 if (Matches(number, parks.Region))
                 {
-                    Console.WriteLine(parks.RegID + ". " + parks.Name);
+                    if ((parks.RegID % 2 == 1) || (parks.RegID == 1))
+                        Console.Write(parks.RegID + ". " + parks.Name + "   ");
+                    else
+                        Console.WriteLine(" " + parks.RegID + ". " + parks.Name);
                     maximum += 1;
                 }
             }
 
+            Console.WriteLine();
             // Ask for the user's baseline park
             int parkChoice = 0;
             while ((parkChoice < 1) || (parkChoice > maximum))
