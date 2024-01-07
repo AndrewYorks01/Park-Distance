@@ -254,13 +254,23 @@
   </Park>
 
   <Park>
+    <Name>Wonderland Amusement Park</Name>
+    <City>Amarillo</City>
+    <State>TX</State>
+    <X>58</X>
+    <Y>55</Y>
+    <Region>South</Region>
+    <RegID>26</RegID>
+  </Park>
+
+  <Park>
     <Name>ZDT'S Amusement Park</Name>
     <City>Seguin</City>
     <State>TX</State>
     <X>66</X>
     <Y>74</Y>
     <Region>South</Region>
-    <RegID>26</RegID>
+    <RegID>27</RegID>
   </Park>
 
   <!---NORTHEAST-->
