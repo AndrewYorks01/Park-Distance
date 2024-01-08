@@ -26,3 +26,6 @@ Each square on the map represents 30 square miles.
 The parks are not 100 percent to scale; this program
 is for demonstration purposes only. Therefore, distances
 given in the program may not be completely accurate.
+
+Distances generally become less accurate the further
+two parks are from each other.
