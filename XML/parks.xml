@@ -14,13 +14,23 @@
   </Park>
 
   <Park>
+    <Name>Beach Waterpark</Name>
+    <City>South Padre Island</City>
+    <State>TX</State>
+    <X>69</X>
+    <Y>87</Y>
+    <Region>South</Region>
+    <RegID>2</RegID>
+  </Park>
+
+  <Park>
     <Name>Beech Bend</Name>
     <City>Bowling Green</City>
     <State>KY</State>
     <X>101</X>
     <Y>48</Y>
     <Region>South</Region>
-    <RegID>2</RegID>
+    <RegID>3</RegID>
   </Park>
   
   <Park>
@@ -30,7 +40,7 @@
     <X>115</X>
     <Y>79</Y>
     <Region>South</Region>
-    <RegID>3</RegID>
+    <RegID>4</RegID>
   </Park>
   
   <Park>
@@ -40,7 +50,7 @@
     <X>124</X>
     <Y>44</Y>
     <Region>South</Region>
-    <RegID>4</RegID>
+    <RegID>5</RegID>
   </Park>
 
   <Park>
@@ -50,7 +60,7 @@
     <X>111</X>
     <Y>41</Y>
     <Region>South</Region>
-    <RegID>5</RegID>
+    <RegID>6</RegID>
   </Park>
 
   <Park>
@@ -60,7 +70,7 @@
     <X>116</X>
     <Y>53</Y>
     <Region>South</Region>
-    <RegID>6</RegID>
+    <RegID>7</RegID>
   </Park>
 
   <Park>
@@ -70,7 +80,7 @@
     <X>108</X>
     <Y>51</Y>
     <Region>South</Region>
-    <RegID>7</RegID>
+    <RegID>8</RegID>
   </Park>
 
   <Park>
@@ -80,7 +90,7 @@
     <X>122</X>
     <Y>57</Y>
     <Region>South</Region>
-    <RegID>8</RegID>
+    <RegID>9</RegID>
   </Park>
 
   <Park>
@@ -90,7 +100,7 @@
     <X>69</X>
     <Y>55</Y>
     <Region>South</Region>
-    <RegID>9</RegID>
+    <RegID>10</RegID>
   </Park>
 
   <Park>
@@ -100,7 +110,27 @@
     <X>106</X>
     <Y>60</Y>
     <Region>South</Region>
-    <RegID>10</RegID>
+    <RegID>11</RegID>
+  </Park>
+
+  <Park>
+    <Name>Fun Spot Kissimmee</Name>
+    <City>Kissimmee</City>
+    <State>FL</State>
+    <X>118</X>
+    <Y>78</Y>
+    <Region>South</Region>
+    <RegID>12</RegID>
+  </Park>
+
+  <Park>
+    <Name>Fun Spot Orlando</Name>
+    <City>Orlando</City>
+    <State>FL</State>
+    <X>118</X>
+    <Y>78</Y>
+    <Region>South</Region>
+    <RegID>13</RegID>
   </Park>
 
   <Park>
@@ -110,7 +140,67 @@
     <X>76</X>
     <Y>77</Y>
     <Region>South</Region>
-    <RegID>11</RegID>
+    <RegID>14</RegID>
+  </Park>
+
+  <Park>
+    <Name>Great Wolf Lodge Atlanta</Name>
+    <City>LaGrange</City>
+    <State>GA</State>
+    <X>105</X>
+    <Y>61</Y>
+    <Region>South</Region>
+    <RegID>15</RegID>
+  </Park>
+
+  <Park>
+    <Name>Great Wolf Lodge Charlotte</Name>
+    <City>Concord</City>
+    <State>NC</State>
+    <X>116</X>
+    <Y>52</Y>
+    <Region>South</Region>
+    <RegID>16</RegID>
+  </Park>
+
+  <Park>
+    <Name>Great Wolf Lodge Dallas</Name>
+    <City>Grapevine</City>
+    <State>TX</State>
+    <X>68</X>
+    <Y>64</Y>
+    <Region>South</Region>
+    <RegID>17</RegID>
+  </Park>
+
+  <Park>
+    <Name>Great Wolf Lodge Houston</Name>
+    <City>Webster</City>
+    <State>TX</State>
+    <X>75</X>
+    <Y>77</Y>
+    <Region>South</Region>
+    <RegID>18</RegID>
+  </Park>
+
+  <Park>
+    <Name>Great Wolf Lodge Southwest Florida</Name>
+    <City>Naples</City>
+    <State>FL</State>
+    <X>118</X>
+    <Y>84</Y>
+    <Region>South</Region>
+    <RegID>19</RegID>
+  </Park>
+
+  <Park>
+    <Name>Great Wolf Lodge Williamsburg</Name>
+    <City>Williamsburg</City>
+    <State>VA</State>
+    <X>124</X>
+    <Y>44</Y>
+    <Region>South</Region>
+    <RegID>20</RegID>
   </Park>
 
   <Park>
@@ -120,7 +210,7 @@
     <X>76</X>
     <Y>77</Y>
     <Region>South</Region>
-    <RegID>12</RegID>
+    <RegID>21</RegID>
   </Park>
 
   <Park>
@@ -130,7 +220,7 @@
     <X>102</X>
     <Y>44</Y>
     <Region>South</Region>
-    <RegID>13</RegID>
+    <RegID>22</RegID>
   </Park>
 
   <Park>
@@ -140,7 +230,7 @@
     <X>122</X>
     <Y>43</Y>
     <Region>South</Region>
-    <RegID>14</RegID>
+    <RegID>23</RegID>
   </Park>
 
   <Park>
@@ -150,7 +240,17 @@
     <X>105</X>
     <Y>56</Y>
     <Region>South</Region>
-    <RegID>15</RegID>
+    <RegID>24</RegID>
+  </Park>
+
+  <Park>
+    <Name>Legoland Florida</Name>
+    <City>Winter Haven</City>
+    <State>FL</State>
+    <X>117</X>
+    <Y>79</Y>
+    <Region>South</Region>
+    <RegID>25</RegID>
   </Park>
 
   <Park>
@@ -160,7 +260,17 @@
     <X>81</X>
     <Y>57</Y>
     <Region>South</Region>
-    <RegID>16</RegID>
+    <RegID>26</RegID>
+  </Park>
+
+  <Park>
+    <Name>Massanutten Indoor Water Park</Name>
+    <City>McGaheysville</City>
+    <State>VA</State>
+    <X>119</X>
+    <Y>42</Y>
+    <Region>South</Region>
+    <RegID>27</RegID>
   </Park>
 
   <Park>
@@ -170,17 +280,47 @@
     <X>117</X>
     <Y>79</Y>
     <Region>South</Region>
-    <RegID>17</RegID>
+    <RegID>28</RegID>
   </Park>
 
   <Park>
-    <Name>Schlitterbahn</Name>
+    <Name>Prairie Playland</Name>
+    <City>Grand Prairie</City>
+    <State>TX</State>
+    <X>68</X>
+    <Y>64</Y>
+    <Region>South</Region>
+    <RegID>29</RegID>
+  </Park>
+
+  <Park>
+    <Name>Rapids Waterpark</Name>
+    <City>West Palm Beach</City>
+    <State>FL</State>
+    <X>124</X>
+    <Y>81</Y>
+    <Region>South</Region>
+    <RegID>30</RegID>
+  </Park>
+
+  <Park>
+    <Name>Schlitterbahn Galveston</Name>
+    <City>Galveston</City>
+    <State>TX</State>
+    <X>76</X>
+    <Y>77</Y>
+    <Region>South</Region>
+    <RegID>31</RegID>
+  </Park>
+
+  <Park>
+    <Name>Schlitterbahn New Braunfels</Name>
     <City>New Braunfels</City>
     <State>TX</State>
     <X>66</X>
     <Y>74</Y>
     <Region>South</Region>
-    <RegID>18</RegID>
+    <RegID>32</RegID>
   </Park>
 
   <Park>
@@ -190,7 +330,7 @@
     <X>118</X>
     <Y>78</Y>
     <Region>South</Region>
-    <RegID>19</RegID>
+    <RegID>33</RegID>
   </Park>
   
   <Park>
@@ -200,7 +340,7 @@
     <X>65</X>
     <Y>74</Y>
     <Region>South</Region>
-    <RegID>20</RegID>
+    <RegID>34</RegID>
   </Park>
 
   <Park>
@@ -210,7 +350,7 @@
     <X>65</X>
     <Y>74</Y>
     <Region>South</Region>
-    <RegID>21</RegID>
+    <RegID>35</RegID>
   </Park>
 
   <Park>
@@ -220,7 +360,7 @@
     <X>106</X>
     <Y>59</Y>
     <Region>South</Region>
-    <RegID>22</RegID>
+    <RegID>36</RegID>
   </Park>
 
   <Park>
@@ -230,7 +370,7 @@
     <X>68</X>
     <Y>64</Y>
     <Region>South</Region>
-    <RegID>23</RegID>
+    <RegID>37</RegID>
   </Park>
 
   <Park>
@@ -240,7 +380,7 @@
     <X>97</X>
     <Y>72</Y>
     <Region>South</Region>
-    <RegID>24</RegID>
+    <RegID>38</RegID>
   </Park>
 
   <Park>
@@ -250,7 +390,7 @@
     <X>118</X>
     <Y>78</Y>
     <Region>South</Region>
-    <RegID>25</RegID>
+    <RegID>39</RegID>
   </Park>
 
   <Park>
@@ -260,7 +400,7 @@
     <X>118</X>
     <Y>78</Y>
     <Region>South</Region>
-    <RegID>26</RegID>
+    <RegID>40</RegID>
   </Park>
 
   <Park>
@@ -270,7 +410,7 @@
     <X>109</X>
     <Y>68</Y>
     <Region>South</Region>
-    <RegID>27</RegID>
+    <RegID>41</RegID>
   </Park>
 
   <Park>
@@ -280,7 +420,7 @@
     <X>58</X>
     <Y>55</Y>
     <Region>South</Region>
-    <RegID>28</RegID>
+    <RegID>42</RegID>
   </Park>
 
   <Park>
@@ -290,10 +430,30 @@
     <X>66</X>
     <Y>74</Y>
     <Region>South</Region>
-    <RegID>29</RegID>
+    <RegID>43</RegID>
   </Park>
 
   <!---NORTHEAST-->
+  <Park>
+    <Name>Adventure Park USA</Name>
+    <City>Monrovia</City>
+    <State>MD</State>
+    <X>122</X>
+    <Y>39</Y>
+    <Region>Northeast</Region>
+    <RegID>1</RegID>
+  </Park>
+  
+  <Park>
+    <Name>Adventureland</Name>
+    <City>Farmington</City>
+    <State>NY</State>
+    <X>130</X>
+    <Y>29</Y>
+    <Region>Northeast</Region>
+    <RegID>2</RegID>
+  </Park>
+  
   <Park>
     <Name>Canobie Lake Park</Name>
     <City>Salem</City>
@@ -301,7 +461,17 @@
     <X>134</X>
     <Y>21</Y>
     <Region>Northeast</Region>
-    <RegID>1</RegID>
+    <RegID>3</RegID>
+  </Park>
+
+  <Park>
+    <Name>Casino Pier</Name>
+    <City>Seaside Heights</City>
+    <State>NJ</State>
+    <X>129</X>
+    <Y>34</Y>
+    <Region>Northeast</Region>
+    <RegID>4</RegID>
   </Park>
 
   <Park>
@@ -311,7 +481,7 @@
     <X>127</X>
     <Y>33</Y>
     <Region>Northeast</Region>
-    <RegID>2</RegID>
+    <RegID>5</RegID>
   </Park>
   
   <Park>
@@ -321,7 +491,17 @@
     <X>131</X>
     <Y>31</Y>
     <Region>Northeast</Region>
-    <RegID>3</RegID>
+    <RegID>6</RegID>
+  </Park>
+
+  <Park>
+    <Name>DelGrosso's Park</Name>
+    <City>Tipton</City>
+    <State>PA</State>
+    <X>117</X>
+    <Y>33</Y>
+    <Region>Northeast</Region>
+    <RegID>7</RegID>
   </Park>
   
   <Park>
@@ -331,7 +511,7 @@
     <X>125</X>
     <Y>33</Y>
     <Region>Northeast</Region>
-    <RegID>4</RegID>
+    <RegID>8</RegID>
   </Park>
 
   <Park>
@@ -341,7 +521,7 @@
     <X>124</X>
     <Y>35</Y>
     <Region>Northeast</Region>
-    <RegID>5</RegID>
+    <RegID>9</RegID>
   </Park>
 
   <Park>
@@ -351,7 +531,37 @@
     <X>136</X>
     <Y>19</Y>
     <Region>Northeast</Region>
-    <RegID>6</RegID>
+    <RegID>10</RegID>
+  </Park>
+
+  <Park>
+    <Name>Great Wolf Lodge Baltimore</Name>
+    <City>Perryville</City>
+    <State>MD</State>
+    <X>125</X>
+    <Y>37</Y>
+    <Region>Northeast</Region>
+    <RegID>11</RegID>
+  </Park>
+
+  <Park>
+    <Name>Great Wolf Lodge Boston</Name>
+    <City>Fitchburg</City>
+    <State>MA</State>
+    <X>133</X>
+    <Y>23</Y>
+    <Region>Northeast</Region>
+    <RegID>12</RegID>
+  </Park>
+
+  <Park>
+    <Name>Great Wolf Lodge Poconos</Name>
+    <City>Scotrun</City>
+    <State>PA</State>
+    <X>125</X>
+    <Y>31</Y>
+    <Region>Northeast</Region>
+    <RegID>13</RegID>
   </Park>
   
   <Park>
@@ -361,7 +571,7 @@
     <X>123</X>
     <Y>34</Y>
     <Region>Northeast</Region>
-    <RegID>7</RegID>
+    <RegID>14</RegID>
   </Park>
 
   <Park>
@@ -371,7 +581,7 @@
     <X>115</X>
     <Y>34</Y>
     <Region>Northeast</Region>
-    <RegID>8</RegID>
+    <RegID>15</RegID>
   </Park>
 
   <Park>
@@ -381,7 +591,7 @@
     <X>114</X>
     <Y>33</Y>
     <Region>Northeast</Region>
-    <RegID>9</RegID>
+    <RegID>16</RegID>
   </Park>
 
   <Park>
@@ -391,7 +601,7 @@
     <X>123</X>
     <Y>32</Y>
     <Region>Northeast</Region>
-    <RegID>10</RegID>
+    <RegID>17</RegID>
   </Park>
 
   <Park>
@@ -401,7 +611,7 @@
     <X>131</X>
     <Y>27</Y>
     <Region>Northeast</Region>
-    <RegID>11</RegID>
+    <RegID>18</RegID>
   </Park>
 
   <Park>
@@ -411,7 +621,17 @@
     <X>117</X>
     <Y>33</Y>
     <Region>Northeast</Region>
-    <RegID>12</RegID>
+    <RegID>19</RegID>
+  </Park>
+
+  <Park>
+    <Name>Legoland New York</Name>
+    <City>Goshen</City>
+    <State>NY</State>
+    <X>127</X>
+    <Y>29</Y>
+    <Region>Northeast</Region>
+    <RegID>20</RegID>
   </Park>
 
   <Park>
@@ -421,7 +641,17 @@
     <X>129</X>
     <Y>37</Y>
     <Region>Northeast</Region>
-    <RegID>13</RegID>
+    <RegID>21</RegID>
+  </Park>
+
+  <Park>
+    <Name>Mountain Creek Water Park</Name>
+    <City>Vernon</City>
+    <State>NJ</State>
+    <X>127</X>
+    <Y>30</Y>
+    <Region>Northeast</Region>
+    <RegID>22</RegID>
   </Park>
 
   <Park>
@@ -431,7 +661,7 @@
     <X>117</X>
     <Y>26</Y>
     <Region>Northeast</Region>
-    <RegID>14</RegID>
+    <RegID>23</RegID>
   </Park>
 
   <Park>
@@ -441,7 +671,7 @@
     <X>129</X>
     <Y>31</Y>
     <Region>Northeast</Region>
-    <RegID>15</RegID>
+    <RegID>24</RegID>
   </Park>
 
   <Park>
@@ -451,7 +681,7 @@
     <X>131</X>
     <Y>30</Y>
     <Region>Northeast</Region>
-    <RegID>16</RegID>
+    <RegID>25</RegID>
   </Park>
 
   <Park>
@@ -461,7 +691,7 @@
     <X>129</X>
     <Y>36</Y>
     <Region>Northeast</Region>
-    <RegID>17</RegID>
+    <RegID>26</RegID>
   </Park>
 
   <Park>
@@ -471,7 +701,7 @@
     <X>131</X>
     <Y>27</Y>
     <Region>Northeast</Region>
-    <RegID>18</RegID>
+    <RegID>27</RegID>
   </Park>
 
   <Park>
@@ -481,7 +711,7 @@
     <X>119</X>
     <Y>24</Y>
     <Region>Northeast</Region>
-    <RegID>19</RegID>
+    <RegID>28</RegID>
   </Park>
 
   <Park>
@@ -491,7 +721,7 @@
     <X>126</X>
     <Y>34</Y>
     <Region>Northeast</Region>
-    <RegID>20</RegID>
+    <RegID>29</RegID>
   </Park>
 
   <Park>
@@ -501,7 +731,7 @@
     <X>124</X>
     <Y>39</Y>
     <Region>Northeast</Region>
-    <RegID>21</RegID>
+    <RegID>30</RegID>
   </Park>
 
   <Park>
@@ -511,7 +741,7 @@
     <X>118</X>
     <Y>26</Y>
     <Region>Northeast</Region>
-    <RegID>22</RegID>
+    <RegID>31</RegID>
   </Park>
 
   <Park>
@@ -521,7 +751,7 @@
     <X>128</X>
     <Y>34</Y>
     <Region>Northeast</Region>
-    <RegID>23</RegID>
+    <RegID>32</RegID>
   </Park>
 
   <Park>
@@ -531,7 +761,7 @@
     <X>128</X>
     <Y>23</Y>
     <Region>Northeast</Region>
-    <RegID>24</RegID>
+    <RegID>33</RegID>
   </Park>
 
   <Park>
@@ -541,7 +771,17 @@
     <X>131</X>
     <Y>25</Y>
     <Region>Northeast</Region>
-    <RegID>25</RegID>
+    <RegID>34</RegID>
+  </Park>
+
+  <Park>
+    <Name>Splish Splash</Name>
+    <City>Calverton</City>
+    <State>NY</State>
+    <X>133</X>
+    <Y>30</Y>
+    <Region>Northeast</Region>
+    <RegID>35</RegID>
   </Park>
 
   <Park>
@@ -551,7 +791,7 @@
     <X>134</X>
     <Y>18</Y>
     <Region>Northeast</Region>
-    <RegID>26</RegID>
+    <RegID>36</RegID>
   </Park>
 
   <Park>
@@ -561,7 +801,7 @@
     <X>114</X>
     <Y>29</Y>
     <Region>Northeast</Region>
-    <RegID>27</RegID>
+    <RegID>37</RegID>
   </Park>
 
   <!---MIDWEST-->
@@ -594,6 +834,16 @@
     <Region>Midwest</Region>
     <RegID>3</RegID>
   </Park>
+
+  <Park>
+    <Name>Blue Harbor Resort</Name>
+    <City>Sheboygan</City>
+    <State>WI</State>
+    <X>94</X>
+    <Y>27</Y>
+    <Region>Midwest</Region>
+    <RegID>4</RegID>
+  </Park>
   
   <Park>
     <Name>Cedar Point</Name>
@@ -602,7 +852,7 @@
     <X>107</X>
     <Y>33</Y>
     <Region>Midwest</Region>
-    <RegID>4</RegID>
+    <RegID>5</RegID>
   </Park>
 
   <Park>
@@ -612,7 +862,77 @@
     <X>107</X>
     <Y>37</Y>
     <Region>Midwest</Region>
-    <RegID>5</RegID>
+    <RegID>6</RegID>
+  </Park>
+
+  <Park>
+    <Name>Great Wolf Lodge Bloomington</Name>
+    <City>Bloomington</City>
+    <State>MN</State>
+    <X>79</X>
+    <Y>23</Y>
+    <Region>Midwest</Region>
+    <RegID>7</RegID>
+  </Park>
+
+  <Park>
+    <Name>Great Wolf Lodge Chicago</Name>
+    <City>Gurnee</City>
+    <State>IL</State>
+    <X>94</X>
+    <Y>31</Y>
+    <Region>Midwest</Region>
+    <RegID>8</RegID>
+  </Park>
+
+  <Park>
+    <Name>Great Wolf Lodge Cincinnati</Name>
+    <City>Mason</City>
+    <State>OH</State>
+    <X>106</X>
+    <Y>40</Y>
+    <Region>Midwest</Region>
+    <RegID>9</RegID>
+  </Park>
+
+  <Park>
+    <Name>Great Wolf Lodge Kansas City</Name>
+    <City>Kansas City</City>
+    <State>KS</State>
+    <X>77</X>
+    <Y>44</Y>
+    <Region>Midwest</Region>
+    <RegID>10</RegID>
+  </Park>
+
+  <Park>
+    <Name>Great Wolf Lodge Sandusky</Name>
+    <City>Sandusky</City>
+    <State>OH</State>
+    <X>107</X>
+    <Y>33</Y>
+    <Region>Midwest</Region>
+    <RegID>11</RegID>
+  </Park>
+
+  <Park>
+    <Name>Great Wolf Lodge Traverse City</Name>
+    <City>Traverse City</City>
+    <State>MI</State>
+    <X>98</X>
+    <Y>25</Y>
+    <Region>Midwest</Region>
+    <RegID>12</RegID>
+  </Park>
+
+  <Park>
+    <Name>Great Wolf Lodge Wisconsin Dells</Name>
+    <City>Baraboo</City>
+    <State>WI</State>
+    <X>89</X>
+    <Y>27</Y>
+    <Region>Midwest</Region>
+    <RegID>13</RegID>
   </Park>
 
   <Park>
@@ -622,7 +942,7 @@
     <X>99</X>
     <Y>44</Y>
     <Region>Midwest</Region>
-    <RegID>6</RegID>
+    <RegID>14</RegID>
   </Park>
 
   <Park>
@@ -632,7 +952,7 @@
     <X>97</X>
     <Y>36</Y>
     <Region>Midwest</Region>
-    <RegID>7</RegID>
+    <RegID>15</RegID>
   </Park>
 
   <Park>
@@ -642,7 +962,7 @@
     <X>106</X>
     <Y>40</Y>
     <Region>Midwest</Region>
-    <RegID>8</RegID>
+    <RegID>16</RegID>
   </Park>
 
   <Park>
@@ -652,7 +972,7 @@
     <X>91</X>
     <Y>28</Y>
     <Region>Midwest</Region>
-    <RegID>9</RegID>
+    <RegID>17</RegID>
   </Park>
 
   <Park>
@@ -662,7 +982,7 @@
     <X>82</X>
     <Y>31</Y>
     <Region>Midwest</Region>
-    <RegID>10</RegID>
+    <RegID>18</RegID>
   </Park>
 
   <Park>
@@ -672,7 +992,17 @@
     <X>98</X>
     <Y>29</Y>
     <Region>Midwest</Region>
-    <RegID>11</RegID>
+    <RegID>19</RegID>
+  </Park>
+
+  <Park>
+    <Name>Mt. Olympus Water &amp; Theme Park</Name>
+    <City>Wisconsin Dells</City>
+    <State>WI</State>
+    <X>89</X>
+    <Y>27</Y>
+    <Region>Midwest</Region>
+    <RegID>20</RegID>
   </Park>
 
   <Park>
@@ -682,7 +1012,17 @@
     <X>79</X>
     <Y>23</Y>
     <Region>Midwest</Region>
-    <RegID>12</RegID>
+    <RegID>21</RegID>
+  </Park>
+
+  <Park>
+    <Name>Noah's Ark Water Park</Name>
+    <City>Lake Delton</City>
+    <State>WI</State>
+    <X>89</X>
+    <Y>27</Y>
+    <Region>Midwest</Region>
+    <RegID>22</RegID>
   </Park>
 
   <Park>
@@ -692,7 +1032,7 @@
     <X>81</X>
     <Y>51</Y>
     <Region>Midwest</Region>
-    <RegID>13</RegID>
+    <RegID>23</RegID>
   </Park>
 
   <Park>
@@ -702,7 +1042,7 @@
     <X>94</X>
     <Y>31</Y>
     <Region>Midwest</Region>
-    <RegID>14</RegID>
+    <RegID>24</RegID>
   </Park>
 
   <Park>
@@ -712,7 +1052,7 @@
     <X>88</X>
     <Y>45</Y>
     <Region>Midwest</Region>
-    <RegID>15</RegID>
+    <RegID>25</RegID>
   </Park>
 
   <Park>
@@ -722,7 +1062,7 @@
     <X>105</X>
     <Y>40</Y>
     <Region>Midwest</Region>
-    <RegID>16</RegID>
+    <RegID>26</RegID>
   </Park>
 
   <Park>
@@ -732,17 +1072,7 @@
     <X>79</X>
     <Y>23</Y>
     <Region>Midwest</Region>
-    <RegID>17</RegID>
-  </Park>
-
-  <Park>
-    <Name>Wisconsin Dells parks</Name>
-    <City>Wisconsin Dells</City>
-    <State>WI</State>
-    <X>89</X>
-    <Y>27</Y>
-    <Region>Midwest</Region>
-    <RegID>18</RegID>
+    <RegID>27</RegID>
   </Park>
 
   <Park>
@@ -752,10 +1082,20 @@
     <X>78</X>
     <Y>44</Y>
     <Region>Midwest</Region>
-    <RegID>19</RegID>
+    <RegID>28</RegID>
   </Park>
 
   <!---WEST-->
+  <Park>
+    <Name>Adventure City</Name>
+    <City>Anaheim</City>
+    <State>CA</State>
+    <X>12</X>
+    <Y>53</Y>
+    <Region>West</Region>
+    <RegID>1</RegID>
+  </Park>
+  
   <Park>
     <Name>Adventuredome</Name>
     <City>Las Vegas</City>
@@ -763,7 +1103,17 @@
     <X>20</X>
     <Y>46</Y>
     <Region>West</Region>
-    <RegID>1</RegID>
+    <RegID>2</RegID>
+  </Park>
+
+  <Park>
+    <Name>Belmont Park</Name>
+    <City>San Diego</City>
+    <State>CA</State>
+    <X>13</X>
+    <Y>57</Y>
+    <Region>West</Region>
+    <RegID>3</RegID>
   </Park>
   
   <Park>
@@ -773,7 +1123,7 @@
     <X>5</X>
     <Y>37</Y>
     <Region>West</Region>
-    <RegID>2</RegID>
+    <RegID>4</RegID>
   </Park>
 
   <Park>
@@ -783,7 +1133,7 @@
     <X>28</X>
     <Y>57</Y>
     <Region>West</Region>
-    <RegID>3</RegID>
+    <RegID>5</RegID>
   </Park>
 
   <Park>
@@ -793,7 +1143,7 @@
     <X>44</X>
     <Y>54</Y>
     <Region>West</Region>
-    <RegID>4</RegID>
+    <RegID>6</RegID>
   </Park>
 
   <Park>
@@ -803,7 +1153,7 @@
     <X>12</X>
     <Y>53</Y>
     <Region>West</Region>
-    <RegID>5</RegID>
+    <RegID>7</RegID>
   </Park>
 
   <Park>
@@ -813,7 +1163,7 @@
     <X>48</X>
     <Y>40</Y>
     <Region>West</Region>
-    <RegID>6</RegID>
+    <RegID>8</RegID>
   </Park>
 
   <Park>
@@ -823,7 +1173,17 @@
     <X>11</X>
     <Y>14</Y>
     <Region>West</Region>
-    <RegID>7</RegID>
+    <RegID>9</RegID>
+  </Park>
+
+  <Park>
+    <Name>Gilroy Gardens</Name>
+    <City>Gilroy</City>
+    <State>CA</State>
+    <X>6</X>
+    <Y>38</Y>
+    <Region>West</Region>
+    <RegID>10</RegID>
   </Park>
 
   <Park>
@@ -833,7 +1193,57 @@
     <X>43</X>
     <Y>40</Y>
     <Region>West</Region>
-    <RegID>8</RegID>
+    <RegID>11</RegID>
+  </Park>
+
+  <Park>
+    <Name>Great Wolf Lodge Anaheim</Name>
+    <City>Anaheim</City>
+    <State>CA</State>
+    <X>12</X>
+    <Y>53</Y>
+    <Region>West</Region>
+    <RegID>12</RegID>
+  </Park>
+
+  <Park>
+    <Name>Great Wolf Lodge Colorado Springs</Name>
+    <City>Colorado Springs</City>
+    <State>CO</State>
+    <X>48</X>
+    <Y>42</Y>
+    <Region>West</Region>
+    <RegID>13</RegID>
+  </Park>
+
+  <Park>
+    <Name>Great Wolf Lodge Grand Mound</Name>
+    <City>Grand Mound</City>
+    <State>WA</State>
+    <X>11</X>
+    <Y>9</Y>
+    <Region>West</Region>
+    <RegID>14</RegID>
+  </Park>
+
+  <Park>
+    <Name>Great Wolf Lodge San Francisco</Name>
+    <City>Manteca</City>
+    <State>CA</State>
+    <X>7</X>
+    <Y>35</Y>
+    <Region>West</Region>
+    <RegID>15</RegID>
+  </Park>
+
+  <Park>
+    <Name>Great Wolf Lodge Scottsdale</Name>
+    <City>Scottsdale</City>
+    <State>AZ</State>
+    <X>29</X>
+    <Y>57</Y>
+    <Region>West</Region>
+    <RegID>16</RegID>
   </Park>
 
   <Park>
@@ -843,7 +1253,7 @@
     <X>12</X>
     <Y>53</Y>
     <Region>West</Region>
-    <RegID>9</RegID>
+    <RegID>17</RegID>
   </Park>
 
   <Park>
@@ -853,7 +1263,17 @@
     <X>32</X>
     <Y>33</Y>
     <Region>West</Region>
-    <RegID>10</RegID>
+    <RegID>18</RegID>
+  </Park>
+
+  <Park>
+    <Name>Legoland California</Name>
+    <City>Carlsbad</City>
+    <State>CA</State>
+    <X>13</X>
+    <Y>56</Y>
+    <Region>West</Region>
+    <RegID>19</RegID>
   </Park>
 
   <Park>
@@ -863,7 +1283,17 @@
     <X>11</X>
     <Y>12</Y>
     <Region>West</Region>
-    <RegID>11</RegID>
+    <RegID>20</RegID>
+  </Park>
+
+  <Park>
+    <Name>Pacific Park</Name>
+    <City>Santa Monica</City>
+    <State>CA</State>
+    <X>12</X>
+    <Y>52</Y>
+    <Region>West</Region>
+    <RegID>21</RegID>
   </Park>
 
   <Park>
@@ -873,7 +1303,7 @@
     <X>5</X>
     <Y>38</Y>
     <Region>West</Region>
-    <RegID>12</RegID>
+    <RegID>22</RegID>
   </Park>
 
   <Park>
@@ -883,7 +1313,7 @@
     <X>13</X>
     <Y>57</Y>
     <Region>West</Region>
-    <RegID>13</RegID>
+    <RegID>23</RegID>
   </Park>
   
   <Park>
@@ -893,7 +1323,7 @@
     <X>26</X>
     <Y>8</Y>
     <Region>West</Region>
-    <RegID>14</RegID>
+    <RegID>24</RegID>
   </Park>
 
   <Park>
@@ -903,7 +1333,7 @@
     <X>5</X>
     <Y>35</Y>
     <Region>West</Region>
-    <RegID>15</RegID>
+    <RegID>25</RegID>
   </Park>
 
   <Park>
@@ -913,7 +1343,7 @@
     <X>12</X>
     <Y>52</Y>
     <Region>West</Region>
-    <RegID>16</RegID>
+    <RegID>26</RegID>
   </Park>
 
   <Park>
@@ -923,7 +1353,7 @@
     <X>12</X>
     <Y>52</Y>
     <Region>West</Region>
-    <RegID>17</RegID>
+    <RegID>27</RegID>
   </Park>
 
   <Park>
@@ -933,7 +1363,17 @@
     <X>11</X>
     <Y>7</Y>
     <Region>West</Region>
-    <RegID>18</RegID>
+    <RegID>28</RegID>
+  </Park>
+
+  <Park>
+    <Name>Water World</Name>
+    <City>Federal Heights</City>
+    <State>CO</State>
+    <X>48</X>
+    <Y>40</Y>
+    <Region>West</Region>
+    <RegID>29</RegID>
   </Park>
 
   <Park>
@@ -943,7 +1383,7 @@
     <X>11</X>
     <Y>7</Y>
     <Region>West</Region>
-    <RegID>19</RegID>
+    <RegID>30</RegID>
   </Park>
 
 </ParkData>
